@@ -1,0 +1,2 @@
+FROM ianiket/webapp
+ADD . /var/www/html
